@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Archivos\\.NET\\ApiAnimalsPatients\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3FBEB0-A0EA-404B-B6BE-624A225F8616}|api-animals-patients\\api-animals-patients.csproj|c:\\archivos\\.net\\apianimalspatients\\api-animals-patients\\api-animals-patients.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C3FBEB0-A0EA-404B-B6BE-624A225F8616}|api-animals-patients\\api-animals-patients.csproj|solutionrelative:api-animals-patients\\api-animals-patients.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3FBEB0-A0EA-404B-B6BE-624A225F8616}|api-animals-patients\\api-animals-patients.csproj|c:\\archivos\\.net\\apianimalspatients\\api-animals-patients\\api-animals-patients.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0C3FBEB0-A0EA-404B-B6BE-624A225F8616}|api-animals-patients\\api-animals-patients.csproj|solutionrelative:api-animals-patients\\api-animals-patients.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "api-animals-patients",
+              "DocumentMoniker": "C:\\Archivos\\.NET\\ApiAnimalsPatients\\api-animals-patients\\api-animals-patients.csproj",
+              "RelativeDocumentMoniker": "api-animals-patients\\api-animals-patients.csproj",
+              "ToolTip": "C:\\Archivos\\.NET\\ApiAnimalsPatients\\api-animals-patients\\api-animals-patients.csproj",
+              "RelativeToolTip": "api-animals-patients\\api-animals-patients.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T23:41:23.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "api-animals-patients.http",
+              "DocumentMoniker": "C:\\Archivos\\.NET\\ApiAnimalsPatients\\api-animals-patients\\api-animals-patients.http",
+              "RelativeDocumentMoniker": "api-animals-patients\\api-animals-patients.http",
+              "ToolTip": "C:\\Archivos\\.NET\\ApiAnimalsPatients\\api-animals-patients\\api-animals-patients.http",
+              "RelativeToolTip": "api-animals-patients\\api-animals-patients.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-02T23:41:12.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@api_animals_patients_HostAddress = http://localhost:5253
+
+GET {{api_animals_patients_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
